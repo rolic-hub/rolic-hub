@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heeze
-- 👀 I’m interested in ... Blockchain development
+- 👀 I’m interested in ... Blockchain | web3 | metaverse
 - 🌱 I’m currently learning ... js/react.js/web3
 - 💞️ I’m looking to collaborate on ... web3 projects 
 - 📫 How to reach me ... frolicbit@protonmail.com
