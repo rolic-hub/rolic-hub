@@ -2,7 +2,8 @@
 ## - 👀 I’m interested in ... Blockchain | web3 | metaverse | programming
 ## - 🌱 I’m currently learning ... react.js/solidity/typescript 
 ## - 💞️ I’m looking to collaborate on ... web3/ metaverse/blockchain projects and anything interesting
-## - 📫 How to reach me ... frolicbit@proton.me or discord at ![discord](https://camo.githubusercontent.com/865303c1d61f976b15c4c78432b56d6c602b4eb3042601f2ab0205b7b834909c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646973636f72642d6c6f676f2e706e67)
+## - 📫 How to reach me ... frolicbit@proton.me
+
 
 ## Tools i am familiar with
 ![truffle](https://camo.githubusercontent.com/f4e437a68db57ac64831f6c142345f8a1e9382c73c66cb7cedfd11c6b8b2796e/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d766974616c69792d676f726261636865762d666c61742d766974616c792d676f726261636865762f35382f756e646566696e65642f65787465726e616c2d657468657265756d2d63727970746f63757272656e63792d766974616c69792d676f726261636865762d666c61742d766974616c792d676f726261636865762e706e67)
@@ -12,9 +13,3 @@
 ![react](https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67)
 ![git](https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67)
 ![metamask](https://camo.githubusercontent.com/e81e1ec5cb621f756881ecdbbfdf2e7443314aa67a92e96185d8167760b125a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f756e646566696e65642f6d6574616d61736b2d6c6f676f2e706e67)
-
-
-<!---
-heeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
