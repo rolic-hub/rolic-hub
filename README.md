@@ -18,6 +18,7 @@ I'm a passionate developer diving deep into the world of **blockchain** and **de
 - Currently exploring **smart contract development** and **blockchain security**
 - Passionate about **Blockchain | Web3 | Programming**
 - Always open to collaborating on exciting **Web3**, **Metaverse**, and **blockchain projects**
+- Check out my [repositories](https://github.com/rolic-hub?tab=repositories) to see what I'm building
 
 ---
 
@@ -38,7 +39,7 @@ I'm a passionate developer diving deep into the world of **blockchain** and **de
 
 - Rust Programming Language
 - Solana Ecosystem & Anchor Framework
-- Smart Contract Security & Auditing
+- Smart Contract Security & Auditing — [View my Audit Portfolio](https://github.com/rolic-hub/audit-log)
 - Advanced Blockchain Architecture
 - DeFi Protocol Development
 
