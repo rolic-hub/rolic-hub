@@ -1,11 +1,14 @@
 <h1 align="center">Hey there! I'm Heeze</h1>
 
 <p align="center">
-  <a href="mailto:frolicbit@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
+  <a href="mailto:enyiomaeze09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/rolic-hub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/heeze_725">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
@@ -50,7 +53,7 @@ I'm a passionate developer diving deep into the world of **blockchain** and **de
 I'm always interested in connecting with fellow blockchain enthusiasts and developers. Feel free to reach out if you want to collaborate on something cool!
 
 <p align="center">
-  <b>frolicbit@proton.me</b>
+  <b>enyiomaeze09@gmail.com</b>
 </p>
 
 ---
